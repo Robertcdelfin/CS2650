@@ -1,7 +1,9 @@
-#include<stdio.h>
-//Main method to execute print 
-int main(){
-	//Print command
-	printf("Hello World");
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+	//Prints hello world
+	puts("Hello World");
+	return EXIT_SUCCESS;
 	return 0;
 }
