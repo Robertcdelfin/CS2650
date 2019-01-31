@@ -1,9 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-int main() {
-	//Prints hello world
-	puts("Hello World");
-	return EXIT_SUCCESS;
-	return 0;
+void main(int argc, char **argv){
+	//Printing function
+	printf("Robert Delfin\n");
 }
